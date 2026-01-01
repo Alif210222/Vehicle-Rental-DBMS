@@ -17,7 +17,7 @@ select * from vehicles
    where type = 'car'
 
 
---Query 4 
+--Query-4 
 select vehicle_name , count(*) as total_bookings  from  bookings
  join vehicles on bookings.vehicle_id = vehicles.vehicle_id 
    group by vehicle_name having count(*) > 2;
