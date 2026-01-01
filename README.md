@@ -1,4 +1,4 @@
-# Vehicle Rental Database Query Solution
+# Vehicle Rental Database advance Query Solution
 
 ## Live ERD Diagram - https://drawsql.app/teams/alfa-lab/diagrams/vehicle-rental-system
 
